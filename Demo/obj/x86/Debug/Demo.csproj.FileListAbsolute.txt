@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Admin\Desktop\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Admin\Desktop\Demo\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Demo\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\Admin\Desktop\Demo\Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Demo\Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\Admin\Desktop\Demo\Demo\obj\x86\Debug\Demo.pdb
